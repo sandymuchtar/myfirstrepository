@@ -1,0 +1,2 @@
+# myfirstrepository
+UAS KECERDASAN BUATAN
